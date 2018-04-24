@@ -1,8 +1,10 @@
-# Docker Compose中文文档
+# 开始使用Django
 
-容器部署工具使用中文文档
 
-## 目录
+
+
+
+## 相关链接
 
 - [用户指南](Userguide.md)
 - [安装compose](InstallingCompose.md)
@@ -12,6 +14,3 @@
 - [开始使用WordPress](GetstartedwithWordPress.md)
 - [命令行参考](Commandlinereference.md)
 - [文件配置参考](Composefilereference.md)
-
-## 链接
-- [原文](https://docs.docker.com/compose/overview/)
